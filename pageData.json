@@ -1,0 +1,27 @@
+{
+    "pages": [
+        {
+            "image": "http://localhost:19001/assets/img1.png",
+            "coverImage": "http://localhost:19001/assets/img1.2.png",
+            "title": "Offline Notes",
+            "text": "Now it’s easier to stay tuned for the NDVI updates! If the weather is cloudless, we refresh the NDVI indices every 3–5 days. If it’s impossible to calculate NDVI due to the weather conditions, we show you a short note while viewing the field images."
+        },
+        {
+            "image": "http://localhost:19001/assets/img2.png",
+            "coverImage": "http://localhost:19001/assets/img2.2.png",
+            "title": "Offline Map",
+            "text": "Now it’s easier to stay tuned for the NDVI updates! If the weather is cloudless, we refresh the NDVI indices every 3–5 days. If it’s impossible to calculate NDVI due to the weather conditions, we show you a short note while viewing the field images."
+        },
+        {
+            "image": "http://localhost:19001/assets/img3.gif",
+            "title": "Offline Vegetation",
+            "text": "Now it’s easier to stay tuned for the NDVI updates! If the weather is cloudless, we refresh the NDVI indices every 3–5 days. If it’s impossible to calculate NDVI due to the weather conditions, we show you a short note while viewing the field images."
+        },
+        {
+            "image": "http://localhost:19001/assets/img1.png",
+            "coverImage": "http://localhost:19001/assets/img1.2.png",
+            "title": "Offline Notes",
+            "text": "Now it’s easier to stay tuned for the NDVI updates! If the weather is cloudless, we refresh the NDVI indices every 3–5 days. If it’s impossible to calculate NDVI due to the weather conditions, we show you a short note while viewing the field images."
+        }
+    ]
+}
