@@ -140,29 +140,29 @@ const SkipButton = styled.Text`
 
 const pages = [
     {
-        image: require("../assets/img1.png"),
-        coverImage: require("../assets/img1.2.png"),
+        image: require("./assets/img1.png"),
+        coverImage: require("./assets/img1.2.png"),
         title: "Offline Notes",
         text:
             "As well, it became simpler to enter the dates of seasons. If you mistype, we’ll show a clue for checking the dates. Now it’s easier to stay tuned for the NDVI updates!"
     },
     {
-        image: require("../assets/img2.png"),
-        coverImage: require("../assets/img2.2.png"),
+        image: require("./assets/img2.png"),
+        coverImage: require("./assets/img2.2.png"),
         title: "Offline Map",
         text:
             "Now it’s easier to stay tuned for the NDVI updates! If the weather is cloudless, we refresh the NDVI indices every 3–5 days. If it’s impossible to calculate NDVI due to the weather conditions, we show you a short note while viewing the field images."
     },
     {
-        image: require("../assets/img3.gif"),
+        image: require("./assets/img3.gif"),
         title: "Offline Vegetation",
         text:
             "If you mistype, we’ll show a clue for checking the dates. Now it’s easier to stay tuned for the NDVI updates!"
     },
 
     {
-        image: require("../assets/img2.png"),
-        coverImage: require("../assets/img2.2.png"),
+        image: require("./assets/img2.png"),
+        coverImage: require("./assets/img2.2.png"),
         title: "Other",
         text:
             "As well, it became simpler to enter the dates of seasons. If you mistype, we’ll show a clue for checking the dates. Now it’s easier to stay tuned for the NDVI updates! If the weather is cloudless, we refresh the NDVI indices every 3–5 days. If it’s impossible to calculate NDVI due to the weather conditions, we show you a short note while viewing the field images. Moreover, there is a new in-app help chat. To keep on getting support, update the app to the newest version! As well, it became simpler to enter the dates of seasons. If you mistype, we’ll show a clue for checking the dates. Now it’s easier to stay tuned for the NDVI updates! If the weather is cloudless, we refresh the NDVI indices every 3–5 days. If it’s impossible to calculate NDVI due to the weather conditions, we show you a short note while viewing the field images. Moreover, there is a new in-app help chat. To keep on getting support, update the app to the newest version!"

@@ -1,7 +1,7 @@
 import React from "react";
 import { createStore } from "redux";
 import { Provider } from "react-redux";
-import Onboarding from "./Components/Onboarding";
+import Onboarding from "./Onboarding";
 
 const initialState = {
     textY: 0
