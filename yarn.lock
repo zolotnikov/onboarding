@@ -2661,9 +2661,9 @@ hoist-non-react-statics@^3.0.0, hoist-non-react-statics@^3.3.0:
     react-is "^16.7.0"
 
 hosted-git-info@^2.1.4:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.5.tgz#759cfcf2c4d156ade59b0b2dfabddc42a6b9c70c"
-  integrity sha512-kssjab8CvdXfcXMXVcvsXum4Hwdq9XGtRD3TteMEvEbq0LXyiNQr6AprqKqfeaDXze7SxWvRxdpwE6ku7ikLkg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 http-errors@~1.7.2:
   version "1.7.3"
@@ -4186,11 +4186,6 @@ react-native-pagination@^1.5.5:
   integrity sha512-gh3+Cu0uWFljH0p2S2vi7b8PEyrvYnO6jPBj8QcI+kfgZZ8McXxdIisHTiXeISTCoZkIInfwjLMPU12knFAI3w==
   dependencies:
     react-native-vector-icons "^4.3.0"
-
-react-native-super-ellipse-mask@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/react-native-super-ellipse-mask/-/react-native-super-ellipse-mask-1.0.7.tgz#31e01b95ce1ff43904554c4a20875988eda9c212"
-  integrity sha512-Y8O91zhg8zH/uPReYAownPm4VuqM/BkaRfioAd0qr+8PcjBCdFhaJKC76X458Gw7Aj1TNl0/CaKYRQq51laiGQ==
 
 react-native-vector-icons@^4.3.0:
   version "4.6.0"
